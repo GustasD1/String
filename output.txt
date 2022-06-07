@@ -1,0 +1,137 @@
+Zodziai             	Pasikartojo	    Eilutes kuriose galima rasti zodzius 
+1939                	2 	            19 
+1994                	2 	            3 22 
+2019                	2 	            25 26 
+Antavilių          	2 	            11 14 
+BVP                 	3 	            23 27 
+Baltijos            	3 	            4 6 23 
+EUR                 	3 	            25 26 
+Europos             	2 	            4 22 
+Iš                 	2 	            10 26 
+Lietuva             	3 	            17 19 22 
+Lietuvos            	10 	            1 2 14 18 19 20 23 
+Mieste              	2 	            11 15 
+Neries              	8 	            4 6 7 10 
+Nerin               	2 	            10 
+Nuo                 	2 	            17 20 
+Panerių            	2 	            8 14 
+Pasaulio            	2 	            3 22 
+Pavilnių           	2 	            14 15 
+Per                 	2 	            14 19 
+Pilaitės           	2 	            11 14 
+Respublikos         	2 	            1 2 
+Riešės            	2 	            6 11 
+Rokantiškių       	2 	            7 11 
+Rusijos             	5 	            16 17 
+Sapiegų            	2 	            14 15 
+Sovietų            	5 	            19 20 22 
+Sąjungos           	2 	            19 22 
+UNESCO              	2 	            3 22 
+Verkių             	4 	            11 14 15 
+Vilnia              	2 	            6 10 
+Vilniaus            	20 	            1 3 8 12 14 16 17 18 19 20 21 22 23 25 26 27 
+Vilniuje            	5 	            14 18 20 21 22 
+Vilnius             	13 	            1 2 4 6 17 19 20 22 23 
+Vilnių             	7 	            16 18 19 20 22 
+Vingio              	2 	            14 15 
+armija              	2 	            16 22 
+atodanga            	3 	            6 
+atstovybės         	2 	            2 
+auga                	3 	            14 
+augavietė          	2 	            15 
+be                  	2 	            10 15 
+bei                 	3 	            11 23 
+butų               	2 	            26 
+buvo                	13 	            16 17 18 19 20 
+centras             	4 	            1 2 17 
+dalis               	5 	            6 11 16 27 
+daugiau             	2 	            26 27 
+daugiausia          	2 	            6 14 
+ežerai             	2 	            11 
+ežeras             	3 	            11 
+fabrikas            	2 	            21 
+gamyklos            	2 	            21 
+gubernijos          	2 	            17 
+gyvenamieji         	3 	            26 
+gyventojui          	2 	            23 27 
+gyventojų          	2 	            16 19 
+institucijos        	2 	            2 23 
+intakas             	3 	            6 10 
+ir                  	30 	            1 2 4 6 11 14 15 16 17 18 19 20 23 26 27 
+jų                 	2 	            19 26 
+kaip                	3 	            17 
+kalvynas            	2 	            8 
+karo                	3 	            16 17 20 
+keletas             	2 	            10 11 
+km                  	3 	            4 6 
+kt                  	4 	            11 14 15 
+kultūros           	2 	            22 
+kur                 	3 	            11 14 
+kyla                	2 	            6 
+leidžiasi          	2 	            6 
+liepa               	2 	            15 
+m                   	32 	            1 2 3 7 16 17 18 19 20 22 24 25 26 27 
+mašinų            	3 	            21 
+metu                	2 	            16 
+miestas             	2 	            2 10 
+mieste              	3 	            1 11 26 
+miesto              	14 	            1 4 6 7 10 14 15 16 24 
+miestą             	5 	            10 16 18 
+miškai             	2 	            14 
+miškas             	3 	            14 
+miškų             	2 	            14 
+mln                 	3 	            25 26 
+namai               	3 	            26 
+namų               	2 	            19 20 
+nuo                 	4 	            2 4 22 
+o                   	6 	            4 7 10 14 25 
+pakraštyje         	2 	            11 12 
+pakraštys          	2 	            6 14 
+pakraščiais       	2 	            6 10 
+parkas              	4 	            14 
+parko               	2 	            15 
+pat                 	2 	            6 
+paveldo             	2 	            3 22 
+paviršius          	2 	            6 7 
+plyti               	2 	            6 12 
+pradžioje          	2 	            1 24 
+pramonė            	2 	            21 
+prie                	2 	            6 11 
+pusę               	2 	            14 
+ratas               	2 	            15 
+rytinė             	2 	            6 11 
+savivaldybės       	2 	            1 
+senamiestis         	2 	            3 22 
+sostine             	2 	            20 22 
+sostinė            	4 	            1 17 18 
+su                  	4 	            10 19 27 
+sudaro              	3 	            4 6 
+sąrašą           	2 	            3 22 
+taip                	2 	            6 
+tapo                	4 	            19 20 22 
+teka                	2 	            10 
+telkšo             	3 	            11 
+teritorijoje        	3 	            8 10 20 
+to                  	3 	            10 15 26 
+tvenkinys           	3 	            11 
+užsienio           	2 	            2 23 
+užėmė            	4 	            16 19 20 22 
+valdžia            	2 	            17 20 
+valdžios           	2 	            2 23 
+vasarą             	2 	            19 
+veikė              	2 	            18 24 
+vienam              	2 	            23 27 
+visa                	2 	            17 19 
+visą               	2 	            10 14 
+vu                  	2 	            15 
+vyrauja             	2 	            14 
+yra                 	11 	            2 3 4 6 7 8 11 14 
+į                  	13 	            3 4 6 10 16 18 19 20 22 
+įsteigta           	2 	            15 20 
+įtrauktas          	2 	            3 22 
+Šeškinės         	2 	            8 
+Šiaurės           	4 	            6 12 16 20 
+šiaurėje          	2 	            6 11 
+šiaurės           	3 	            6 11 14 
+žydų              	2 	            19 
+–                 	14 	            1 2 6 8 10 14 18 23 27 
