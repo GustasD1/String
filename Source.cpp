@@ -75,7 +75,7 @@ void skaitymas(vector<tekstas>& temp, vector<string> & url) {
 	temp.resize(1);
 	tekstas laik;
 	int kiekis = 1;
-	std::regex regUrl("\\b((?:https?|ftp|file|)://[-a-zA-Z0-9+&@#/%?=~_|!:, .;]*[-a-zA-Z0-9+&@#/%=~_|])");
+	std::regex regUrl("(((((http|ftp|https|gopher|telnet|file|localhost):\\/\\/)|(www\\.)|(xn--)){1}([\\w_-]+(?:(?:\\.[\\w_-]+)+))([\\w.,@?^=%&:\\/~+#-]*[\\w@?^=%&\\/~+#-])?)|(([\\w_-]{2,200}(?:(?:\\.[\\w_-]+)*))((\\.[\\w_-]+\\/([\\w.,@?^=%&:\\/~+#-]*[\\w@?^=%&\\/~+#-])?)|(\\.((org|com|net|edu|gov|mil|int|arpa|biz|info|unknown|one|ninja|network|host|coop|tech)|(jp|br|it|cn|mx|ar|nl|pl|ru|tr|tw|za|be|uk|eg|es|fi|pt|th|nz|cz|hu|gr|dk|il|sg|uy|lt|ua|ie|ir|ve|kz|ec|rs|sk|py|bg|hk|eu|ee|md|is|my|lv|gt|pk|ni|by|ae|kr|su|vn|cy|am|ke))))))(?!(((ttp|tp|ttps):\\/\\/)|(ww\\.)|(n--)))");
 	while (file>>laik.zodis) {
 
 		if (regex_match(laik.zodis, regUrl)) {
@@ -119,14 +119,16 @@ void pasikartojimai(vector<tekstas>& temp, vector<tekstas>& temp2) {
 	string line;
 	int linija = 1;
 	string laikinas2;
-	size_t laikinas;
+//	size_t laikinas;
 
 
 
 	for (int i = 0; i < temp2.size(); i++) {
 		std::ifstream fd("tekstas.txt");
+
 		if (temp2[i].kiek > 1 && temp2[i].zodis != "") {
 			while (getline(fd, line)) {
+				
 				std::istringstream iss(line);
 				while (iss >> laikinas2) {
 					for (char c : chars) {
@@ -135,6 +137,7 @@ void pasikartojimai(vector<tekstas>& temp, vector<tekstas>& temp2) {
 					if (temp2[i].zodis == laikinas2) {
 						temp2[i].linijos.push_back(linija);
 					}
+		
 				}
 				linija++;
 			}
